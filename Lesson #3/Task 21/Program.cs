@@ -41,13 +41,6 @@ if (check(A)==true)
     { 
         double[] dA = ConvetrMass(A);
         double[] dB = ConvetrMass(B);
-        Console.WriteLine($"A: {A}");
-        Console.WriteLine($"B: {B}");
-        Console.WriteLine($"dA: {dA}");
-        Console.WriteLine($"dB: {dB}");
-        Console.WriteLine(sq_dif(dA[0],dB[0]));
-        Console.WriteLine(sq_dif(dA[1],dB[1]));
-        Console.WriteLine(sq_dif(dA[2],dB[2]));
         double dist = Math.Sqrt(sq_dif(dA[0],dB[0])+sq_dif(dA[1],dB[1])+sq_dif(dA[2],dB[2]));
         Console.WriteLine($"Расстояние равно: {dist}");
     } 
