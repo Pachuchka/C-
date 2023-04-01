@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\bin\Debug\net6.0\task 49.exe
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\bin\Debug\net6.0\task 49.deps.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\bin\Debug\net6.0\task 49.runtimeconfig.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\bin\Debug\net6.0\task 49.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\bin\Debug\net6.0\task 49.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.AssemblyInfo.cs
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\refint\task 49.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\task 49.genruntimeconfig.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 7\task 50\obj\Debug\net6.0\ref\task 49.dll
