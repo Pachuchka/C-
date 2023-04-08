@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.AssemblyInfo.cs
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\bin\Debug\net6.0\task 60.exe
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\bin\Debug\net6.0\task 60.deps.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\bin\Debug\net6.0\task 60.runtimeconfig.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\bin\Debug\net6.0\task 60.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\bin\Debug\net6.0\task 60.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\refint\task 60.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\task 60.genruntimeconfig.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 8\task 60\obj\Debug\net6.0\ref\task 60.dll
