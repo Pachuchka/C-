@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.AssemblyInfo.cs
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\bin\Debug\net6.0\task 64.exe
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\bin\Debug\net6.0\task 64.deps.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\bin\Debug\net6.0\task 64.runtimeconfig.json
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\bin\Debug\net6.0\task 64.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\bin\Debug\net6.0\task 64.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\refint\task 64.dll
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.pdb
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\task 64.genruntimeconfig.cache
+C:\Users\Aleksandr\Desktop\Geekbrains\C#\Lesson № 9\task 64\obj\Debug\net6.0\ref\task 64.dll
